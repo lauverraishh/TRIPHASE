@@ -3,7 +3,8 @@
   "name": "TRIPHASE.AI",
   "short_name": "TRIPHASE",
   "description": "The AI bridge for students in Kazakhstan.",
-  "start_url": "index.html",
+  "start_url": "https://v0.app/chat/triphase-react-app-u16a3DLjiLR?ref=BES88G",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#0a192f",
   "theme_color": "#fddf00",
@@ -19,7 +20,19 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot.png",
+      "src": "screenshot 1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot 2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "screenshot 3.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
