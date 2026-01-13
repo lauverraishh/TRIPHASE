@@ -1,0 +1,17 @@
+{
+  "name": "TRIPHASE.AI",
+  "short_name": "TRIPHASE",
+  "description": "The AI bridge for students in Kazakhstan.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a192f",
+  "theme_color": "#fddf00",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lauverraishh/TRIPHASE/main/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
