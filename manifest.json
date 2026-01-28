@@ -20,14 +20,14 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot 1.png",
+      "src": "screenshot-desktop.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Desktop View"
     },
     {
-      "src": "screenshot 2.png",
+      "src": "screenshot-mobile.png",
       "sizes": "1179x2556",
       "type": "image/png",
       "form_factor": "narrow",
