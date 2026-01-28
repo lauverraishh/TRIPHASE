@@ -23,19 +23,15 @@
       "src": "screenshot 1.png",
       "sizes": "1280x720",
       "type": "image/png",
-      "form_factor": "wide"
+      "form_factor": "wide",
+      "label": "Desktop View"
     },
     {
       "src": "screenshot 2.png",
-      "sizes": "1280x720",
+      "sizes": "1179x2556",
       "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "screenshot 3.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide"
+      "form_factor": "narrow",
+      "label": "Mobile View"
     }
   ]
 }
